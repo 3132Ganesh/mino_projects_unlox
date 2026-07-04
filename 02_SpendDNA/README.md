@@ -1,13 +1,6 @@
-# Spend DNA
-### wallet's year-end story
+
 # SpendDNA 💸
 ### your wallet's year-end story.
-
-> *"Spotify Wrapped, but for your money."*
-
-Built for **The Unlox Academy — Week 2 Minor Project**
-No ML. No matplotlib. No regex. Just Python fundamentals + NumPy + Pandas.
-
 ---
 
 ## What it does
