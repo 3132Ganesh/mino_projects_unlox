@@ -91,11 +91,6 @@ pip install pandas numpy
 jupyter notebook spend_dna.ipynb
 ```
 
-## Files
-
-- `spend_dna.ipynb` — main analysis notebook
-- `data/rahul_transactions.csv` — synthetic transaction dataset
-- `DS_June_Minor_Project_2_Brief.pdf` — original assignment brief
 
 ## Notes
 
