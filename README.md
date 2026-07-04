@@ -1,4 +1,4 @@
-# wtsapp_group_dna — Project Index
+# MINOR_PROJECTS_UNLOX — Project Index
 
 Two minor projects from The Unlox Academy, organized by folder:
 
