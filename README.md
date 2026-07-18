@@ -5,4 +5,3 @@ Two minor projects from The Unlox Academy, organized by folder:
 - [`01_GroupDNA`](./01_GroupDNA) — WhatsApp group chat analytics (pure Python + NumPy)
 - [`02_SpendDNA`](./02_SpendDNA) — Bank statement / spend analytics (Pandas)
 - [`03_REDFLAG_DETECTION`](./03_REDFLAG_DETECTION)-Account transaction/illegal acounts(redflags)
-- 
